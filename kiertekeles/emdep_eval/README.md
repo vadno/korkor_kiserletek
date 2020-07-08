@@ -26,8 +26,8 @@ Az emDiff használatához szükséges konvertálni a fájlokat xtsv-re, ezt a [c
 #### Mérőszámok
 Az emDiff a függőségi elemzés kiértékelésében szokásos mérőszámokat biztosít a kiértékeléskor.
 A függőségi elemzés kiértékelésekor vizsgálhatjuk a címke (a függőségi típusa), valamint a kapcsolat (a csomópont, amelytől a token az adott kapcsolattípussal függ) értékét.
-Az __UAS__ (unlabeled attachment score) tekintet nélkül a kapcsolat fajtájára pusztán a fa felépítését tekinti, tehát azt, hogy az egyes csomópontok ugyanahhoz az anyacsomópontokhoz kapcsolódnak-e, mint a gold standard anyagban.
-A __LAS__ (labeled attachment score) a fa felépítése mellett az élcímkéket is számításba veszi.
+Az __LAS__ (labeled attachment score) a függőségi elemzéshez tartozó két oszlop tartalmát vizsgálja: az anyacsomópont index-számát és a vele fennálló kapcsolat típusát, magát a címkét.
+Ezzel szemben az __UAS__ (unlabeled attachment score) csak a függőségi viszonyokat veszi figyelembe, a címkét nem. Ebben az esetben jó találatnak számít, ha a megfelelő anyacsomóponttól függ egy szó, mindegy, milyen kapcsolattípussal.
 
 Az UAS és LAS mérőszámok kiszámíthatók az egyes mondatokra, az egyes fájlokra és a vizsgálandó anyag egészére is.
 A kiértékelés során a teljes anyagra és fájlonként is kiszámítottam az UAS és LAS értékeket, az utóbbi esetben átlagszámítással következtettem a teljes anyag minőségére.
