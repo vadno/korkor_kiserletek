@@ -7,7 +7,7 @@ A fájlok nem a végleges KorKor korpuszból vannak, hanem az annak építéseko
 Ennek az az oka, hogy a KorKor korpusz tartalmaz zéró elemeket (zéró létigéket és névmásokat), ezzel szemben a függőségi elemző nem produkál ilyeneket.
 
 * __kiértékelendő__ anyag: az emDep kimenete (az [emtsv](https://github.com/dlt-rilmta/emtsv) eszközben használva (elemzés időpontja: 2019.08.03.))
-* __gold standard__: az emDep képpel javított kimenete (a [WebAnno](https://webanno.github.io/webanno/) eszköz segítségével)
+* __gold standard__: az emDep kézzel javított kimenete (a [WebAnno](https://webanno.github.io/webanno/) eszköz segítségével)
 
 #### Méretek
 * 96 fájl

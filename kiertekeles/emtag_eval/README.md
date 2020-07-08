@@ -1,1 +1,27 @@
 # [emTag](https://github.com/ppke-nlpg/purepos) kiértékelés
+
+## A kiértékelés alapanyaga
+A kiértékeléshez a [KorKor](https://github.com/vadno/korkor_pilot) korpusz egy részét használtam.
+
+* __kiértékelendő__ anyag: az emTag kimenete (az [emtsv](https://github.com/dlt-rilmta/emtsv) eszközben használva (elemzés időpontja: 2019.08.03.))
+* __gold standard__: az emTag kézzel javított kimenete
+
+#### Méretek
+* 122 fájl
+* ? mondat
+* ? token írásjelekkel együtt
+
+#### Összevetés
+Az összevetéshez az [emDiff](https://github.com/vadno/emdiff) kiértékelő modulját használtam.
+Bemeneti formátumként xtsv-t fogad.
+
+#### Mérőszámok
+Az emDiff a címkék kiértékeléséhez a __pontosság__ (accuracy) mérőszámát használta.
+
+#### Eredmények
+|                   | pontosság
+| ----------------- |-----:
+| tő                | 98,15%
+| morfológiai címke | 95,40%
+
+#### Hibaanalízis
