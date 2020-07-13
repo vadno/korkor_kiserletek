@@ -7,9 +7,9 @@ A kiértékeléshez a [KorKor](https://github.com/vadno/korkor_pilot) korpusz eg
 * __gold standard__: az emTag kézzel javított kimenete
 
 #### Méretek
-* 122 fájl
-* ? mondat
-* ? token írásjelekkel együtt
+* 121 fájl
+* 1720 mondat
+* 36492 token írásjelekkel együtt (a gold adaton számolva)
 
 #### Összevetés
 Az összevetéshez az [emDiff](https://github.com/vadno/emdiff) kiértékelő modulját használtam.
