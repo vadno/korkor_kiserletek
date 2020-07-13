@@ -3,7 +3,7 @@
 ## A kiértékelés alapanyaga
 A kiértékeléshez a [KorKor](https://github.com/vadno/korkor_pilot) korpusz egy részét használtam.
 
-* __kiértékelendő__ anyag: az emTag kimenete (az [emtsv](https://github.com/dlt-rilmta/emtsv) eszközben használva (elemzés időpontja: 2019.08.03.))
+* __kiértékelendő__ anyag: az emTag kimenete (az [emtsv](https://github.com/dlt-rilmta/emtsv) eszközben használva (elemzés időpontja: 2019.02.))
 * __gold standard__: az emTag kézzel javított kimenete
 
 #### Méretek
