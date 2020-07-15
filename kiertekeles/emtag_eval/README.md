@@ -19,9 +19,12 @@ Bemeneti formátumként xtsv-t fogad.
 Az emDiff a címkék kiértékeléséhez a __pontosság__ (accuracy) mérőszámát használta.
 
 #### Eredmények
-|                   | pontosság
-| ----------------- |-----:
-| tő                | 98,15%
-| morfológiai címke | 95,40%
+
+#### Eredmények
+|                   | átlag   | összesített |
+| ----------------- |--------:| -----------:|
+| tő                | 98,23%  | 98,15%      |
+| morfológiai címke | 95,48%  | 95,40%      |
+
 
 #### Hibaanalízis
