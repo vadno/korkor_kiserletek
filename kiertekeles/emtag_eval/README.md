@@ -19,8 +19,6 @@ Bemeneti formátumként xtsv-t fogad.
 Az emDiff a címkék kiértékeléséhez a __pontosság__ (accuracy) mérőszámát használta.
 
 #### Eredmények
-
-#### Eredmények
 |                   | átlag   | összesített |
 | ----------------- |--------:| -----------:|
 | tő                | 98,23%  | 98,15%      |
