@@ -36,7 +36,7 @@ A kiértékelés során a teljes anyagra és fájlonként is kiszámítottam az 
 |         | átlag   | összesített  |
 | ------- |--------:| ------------:|
 | LAS     | 0,83    | 0,83         |
-| UAS     | 0,87    | 0,87         |
+| UAS     | 0,87    | 0,88         |
 
 #### Kivételként kezelt esetek
 A KorKor korpusz néhány esetben eltér az emDep által használt címkekészlettől.
