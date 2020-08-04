@@ -6,8 +6,15 @@ Azért csak egy részét, mert a korpusz építése során ezeken a fájlokon ne
 A fájlok nem a végleges KorKor korpuszból vannak, hanem az annak építésekor keletkező köztes állapotú fájlok.
 Ennek az az oka, hogy a KorKor korpusz tartalmaz zéró elemeket (zéró létigéket és névmásokat), ezzel szemben a függőségi elemző nem produkál ilyeneket.
 
-* __kiértékelendő__ anyag: az emDep kimenete (az [emtsv](https://github.com/dlt-rilmta/emtsv) eszközben használva (elemzés időpontja: 2019.08.03.))
-* __gold standard__: az emDep kézzel javított kimenete (a [WebAnno](https://webanno.github.io/webanno/) eszköz segítségével)
+Kétféleképpen értékeltem ki az [emDep](https://github.com/antaljanosbenjamin/magyarlanc/tree/b558823b2d1f9cdc0b5c0ad93b628e96fe251cc1) teljesítményét.
+Az első kísérletben a dependenciaelemzőt azokon a fájlokon alkalmaztam, amelyekben az egyértelműsített morfológiai címke már kézzel javítva lett.
+A második kísérletben ugyanezeknek a fájloknak a kézi javítás előtti állapotát használtam.
+A két kísérlet eredményét tekintve következtethetünk arra, hogy hogyan javul a dependenciaelemzés minősége, ha a bemenetéül szolgáló elemzési réteg minősége is jobb. 
+
+* __kiértékelendő anyag__: 
+    * [első kísérlet](emdep): az emDep kimenete (az [emtsv](https://github.com/dlt-rilmta/emtsv) eszközben használva (elemzés időpontja: 2019.08.03.))
+    * [második kísérlet](emdep2): az emDep kimenete (az [emtsv](https://github.com/dlt-rilmta/emtsv) eszközben használva (elemzés időpontja: 2020.08.03.))
+* [__gold standard__](gold): az emDep kézzel javított kimenete (a [WebAnno](https://webanno.github.io/webanno/) eszköz segítségével)
 
 #### Méretek
 * 96 fájl
@@ -33,10 +40,11 @@ Az UAS és LAS mérőszámok kiszámíthatók az egyes mondatokra, az egyes fáj
 A kiértékelés során a teljes anyagra és fájlonként is kiszámítottam az UAS és LAS értékeket, az utóbbi esetben átlagszámítással következtettem a teljes anyag minőségére.
 
 #### Eredmények
-|         | átlag   | összesített  |
-| ------- |--------:| ------------:|
-| LAS     | 0,83    | 0,83         |
-| UAS     | 0,87    | 0,88         |
+| első kísérlet |         |              | második kísérlet |       |             |
+| ------------- |--------:| ------------:| ---------------- | ----: | ----------: |
+|               | átlag   | összesített  |                  | átlag | összesített |
+| LAS           | 0,83    | 0,83         | LAS              | 0,77  | 0,77        |
+| UAS           | 0,87    | 0,88         | UAS              | 0,89  | 0,89        |
 
 #### Kivételként kezelt esetek
 A KorKor korpusz néhány esetben eltér az emDep által használt címkekészlettől.
