@@ -23,7 +23,8 @@ Az emDiff a címkék kiértékeléséhez a __pontosság__ (accuracy) mérőszám
 #### Eredmények
 |                   | átlag   | összesített |
 | ----------------- |--------:| -----------:|
-| tő                | 85,02%  | 85,08%      |
+| Lemma             | 85,02%  | 85,08%      |
+| UPOS              | 81,12%  | 81,24%      |
 
 Összehasonlításképp az UDPipe által kimért teljesítmények a magyar modellhez [itt](http://ufal.mff.cuni.cz/udpipe/models) olvashatók.
 
