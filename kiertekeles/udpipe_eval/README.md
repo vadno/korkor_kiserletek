@@ -6,8 +6,6 @@ A kiértékeléshez a [KorKor](https://github.com/vadno/korkor_pilot) korpusz eg
 * __kiértékelendő__ anyag: az UDPipe kimenete (az [emtsv](https://github.com/dlt-rilmta/emtsv) eszközben használva (elemzés időpontja: 2020.08.06.))
 * __gold standard__: az emTag kézzel javított kimenete UD címkére konvertálva az [emmorph2ud](https://github.com/vadno/emmorph2ud ) konverterrel
 
-Az UDPipe magyar modelljének 
-
 #### Méretek
 * 121 fájl
 * 1899 mondat
