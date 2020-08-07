@@ -1,0 +1,157 @@
+id	form	lemma	upostag	feats
+1	A	a	DET	Definite=Def|PronType=Art
+2	drezdai	drezdai	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	tyúk	tyú	NOUN	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None
+4	már	már	ADV	_
+5	meglévő	meglévő	ADJ	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPres
+6	tyúkfajtákból	tyúkfajta	NOUN	Case=Ela|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None
+7	kitenyésztett	kitenyészt	ADJ	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPast
+8	házityúk	házityú	NOUN	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None
+9	.	.	PUNCT	_
+
+1	Alfred	Alfred	PROPN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+2	Zumpe	Zumpe	PROPN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	tenyésztette	tenyészt	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+4	ki	ki	ADV	Degree=Pos
+5	már	már	ADV	_
+6	meglévő	meglévő	ADJ	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPres
+7	fajtákból	fajta	NOUN	Case=Ela|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None
+8	Drezda	Drezda	PROPN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+9	környékén	környék	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3
+10	1955-ben	1955	NUM	Case=Ine|Number=Sing|NumType=Card
+11	.	.	PUNCT	_
+
+1	Tipikus	Tipikus	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+2	kéthasznú	kéthasznú	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	tyúkfajta	tyúkfaj	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+4	,	,	PUNCT	_
+5	melyek	mely	PRON	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Rel
+6	a	a	DET	Definite=Def|PronType=Art
+7	takarmányukat	takarmány	NOUN	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=Plur|Person[psor]=3
+8	jól	jól	ADV	_
+9	hasznosítják	hasznosít	VERB	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+10	.	.	PUNCT	_
+
+1	Télen	télen	ADV	_
+2	csak	csak	ADV	_
+3	minimálisan	minimális	ADJ	Case=Ess|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+4	csökken	csökken	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+5	a	az	DET	Definite=Def|PronType=Art
+6	tojáshozamuk	tojáshozam	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3
+7	.	.	PUNCT	_
+
+1	Többek	több	DET	Definite=Ind|PronType=Ind
+2	között	között	ADP	_
+3	new	new	PROPN	Case=Nom|Number=Sing
+4	hampshire	hampshi	NOUN	Case=Sub|Number=Plur|Number[psed]=None|Number[psor]=Sing|Person[psor]=3
+5	,	,	PUNCT	_
+6	wyandotten	wyandott	ADJ	Case=Ess|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPast
+7	,	,	PUNCT	_
+8	rhodeländer	rhodeländer	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+9	fajtákkal	fajta	NOUN	Case=Ins|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None
+10	is	is	CCONJ	_
+11	bekeresztezett	bekeresztez	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+12	.	.	PUNCT	_
+
+1	Háta	Háta	PROPN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+2	közepesen	közepes	ADJ	Case=Ess|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	hosszú	hosszú	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+4	,	,	PUNCT	_
+5	széles	széles	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+6	.	.	PUNCT	_
+
+1	Farktolla	Farktolla	PROPN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+2	közepes	közepes	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	méretű	méretű	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+4	.	.	PUNCT	_
+
+1	Melltájéka	Melltájéka	PROPN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+2	széles	széles	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	,	,	PUNCT	_
+4	telt	telik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+5	.	.	PUNCT	_
+
+1	Szárnyak	Szárny	NOUN	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None
+2	vízszintesen	vízszintes	ADJ	Case=Ess|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	és	és	CCONJ	_
+4	testhez	test	NOUN	Case=All|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+5	húzva	húzva	ADV	VerbForm=Conv
+6	viseltek	visel	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+7	.	.	PUNCT	_
+
+2	kicsi	kicsi	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	,	,	PUNCT	_
+4	finom	finom	NUM	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None
+5	formájú	formájú	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+6	.	.	PUNCT	_
+
+1	Arca	Arca	PROPN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+2	piros	piros	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	,	,	PUNCT	_
+4	kicsi	kicsi	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+5	tollacskákkal	tollacska	NOUN	Case=Ins|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None
+6	.	.	PUNCT	_
+
+1	Szeme	szeme	ADV	_
+2	vörös	vörös	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	színű	színű	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+4	.	.	PUNCT	_
+
+1	Csőre	Csőre	ADV	_
+2	erős	erős	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	,	,	PUNCT	_
+4	sárga	sárg	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+5	,	,	PUNCT	_
+6	szarvszínű	szarvszínű	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+7	,	,	PUNCT	_
+8	taraja	tara	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3
+9	erős	erős	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+10	rózsataraj	rózsataraj	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+11	,	,	PUNCT	_
+12	mely	mely	PRON	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Rel
+13	egy	egy	DET	Definite=Ind|PronType=Art
+14	szarvban	szarv	NOUN	Case=Ine|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+15	végződik	végződik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+16	.	.	PUNCT	_
+
+1	Füllebenyek	Füllebeny	PRON	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Rel
+2	pirosak	pirosak	ADJ	Case=Nom|Degree=Pos|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	,	,	PUNCT	_
+4	nem	nem	ADV	PronType=Neg
+5	túl	túl	ADV	_
+6	nagyok	nagy	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+7	.	.	PUNCT	_
+
+1	Nyaka	Nyaka	PROPN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+2	közepes	közepes	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	méretű	méretű	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+4	a	a	DET	Definite=Def|PronType=Art
+5	testhez	test	NOUN	Case=All|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+6	képest	képest	ADP	_
+7	.	.	PUNCT	_
+
+1	Csüd	Csüd	CCONJ	_
+2	sárga	sárga	PRON	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Prs
+3	.	.	PUNCT	_
+
+1	Színváltozatok	Színváltozat	NOUN	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None
+2	:	:	PUNCT	_
+3	Vörös-arany	Vörös-arany	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+4	,	,	PUNCT	_
+5	fehér	fehér	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+6	.	.	PUNCT	_
+
+1	Gyors	gyors	ADV	_
+2	növekedésű	növekedésű	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	,	,	PUNCT	_
+4	különböző	különböző	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+5	időjárási	időjárási	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+6	körülményeket	körülmény	NOUN	Case=Acc|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None
+7	jól	jól	ADV	_
+8	viseli	viseli	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+9	.	.	PUNCT	_
+
+1	Élénk	élénk	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+2	természetű	természetű	NOUN	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None
+3	.	.	PUNCT	_
+
